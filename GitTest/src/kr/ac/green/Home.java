@@ -5,8 +5,5 @@ public class Home {
 		System.out.println("hello git");
 		System.out.println("hello first");
 		System.out.println("hello second");
-		// second
-		
-		// first
 	}
 }
